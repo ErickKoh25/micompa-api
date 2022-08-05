@@ -1,5 +1,15 @@
 FROM node:14.7.0
-EXPOSE 3001/tcp
-WORKDIR /app
+
+WORKDIR /usr/src/app
+
+COPY package.json ./
+
+COPY package-lock.json ./
+
+RUN npm install 
+
 COPY . .
-CMD npm run start
+
+EXPOSE 3001/tcp
+
+CMD ["npm", "run", "start"]

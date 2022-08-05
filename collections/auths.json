@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "62e9dc1ce2f34c88f5a6fafc"
+  },
+  "email": "micompa@test.com.mx",
+  "name": "Mi Compa",
+  "password": "$2b$10$uYevcVVJQHWoZG.vo/q2T.MPeoNrOna2DbSvmHSFCoHBqIdc8zv8S",
+  "__v": 0
+}]

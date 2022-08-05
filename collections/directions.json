@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "62e8505e45d60775131f7370"
+  },
+  "street": "Calle 97ᶠ",
+  "external_number": "748",
+  "internal_number": "",
+  "zipcode": "97267",
+  "settlement": "Manzana 115",
+  "municipality": "Mérida",
+  "city": "Mérida",
+  "state": "Yucatán",
+  "country": "México",
+  "__v": 0,
+  "coords": []
+},{
+  "_id": {
+    "$oid": "62e850ea5d208f0925a06469"
+  },
+  "street": "Calle 33",
+  "external_number": "848",
+  "internal_number": "",
+  "zipcode": "76080",
+  "settlement": "Lomas de Casa Blanca",
+  "municipality": "Querétaro",
+  "city": "Santiago de Querétaro",
+  "state": "Querétaro",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e8520e4791ed71e4521d16"
+  },
+  "street": "Calle 23 Sur",
+  "external_number": "3701",
+  "internal_number": "",
+  "zipcode": "72410",
+  "settlement": "Benito Juárez",
+  "municipality": "Puebla",
+  "city": "Heroica Puebla de Zaragoza",
+  "state": "Puebla",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e8525f4791ed71e4521d20"
+  },
+  "street": "Calle Hacienda De Los Eucaliptos",
+  "external_number": "50",
+  "internal_number": "",
+  "zipcode": "45428",
+  "settlement": "Hacienda Real",
+  "municipality": "Tonalá",
+  "city": "Tonalá",
+  "state": "Jalisco",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e8545c4791ed71e4521d2b"
+  },
+  "street": "Calle 14",
+  "external_number": "2581",
+  "internal_number": "",
+  "zipcode": "44940",
+  "settlement": "Colón Industrial",
+  "municipality": "Guadalajara",
+  "city": "Guadalajara",
+  "state": "Jalisco",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e854af4791ed71e4521d32"
+  },
+  "street": "Avenida Miguel Hidalgo",
+  "external_number": "31",
+  "internal_number": "",
+  "zipcode": "01408",
+  "settlement": "Olivar del Conde 2da Sección",
+  "municipality": "Álvaro Obregón",
+  "city": "Ciudad de México",
+  "state": "Ciudad de México",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e855e34791ed71e4521d3f"
+  },
+  "street": "Calle 25",
+  "external_number": "212",
+  "internal_number": "",
+  "zipcode": "97070",
+  "settlement": "García Ginerés",
+  "municipality": "Mérida",
+  "city": "Mérida",
+  "state": "Yucatán",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e858824791ed71e4521d63"
+  },
+  "street": "Calle 15 de Junio de 1861",
+  "external_number": "1658",
+  "internal_number": "",
+  "zipcode": "09310",
+  "settlement": "Leyes de Reforma 3ra Sección",
+  "municipality": "Iztapalapa",
+  "city": "Ciudad de México",
+  "state": "Ciudad de México",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e85a704791ed71e4521d74"
+  },
+  "street": "Calle 58",
+  "external_number": "536",
+  "internal_number": "",
+  "zipcode": "97000",
+  "settlement": "Centro",
+  "municipality": "Mérida",
+  "city": "Centro",
+  "state": "Yucatán",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e85b684791ed71e4521d7d"
+  },
+  "street": "Calle 89",
+  "external_number": "1501",
+  "internal_number": "",
+  "zipcode": "21394",
+  "settlement": "Venustiano Carranza",
+  "municipality": "Mexicali",
+  "city": "Mexicali",
+  "state": "Baja California",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e85b914791ed71e4521d84"
+  },
+  "street": "Calle 67",
+  "external_number": "67",
+  "internal_number": "",
+  "zipcode": "09290",
+  "settlement": "Santa Cruz Meyehualco",
+  "municipality": "Iztapalapa",
+  "city": "Ciudad de México",
+  "state": "Ciudad de México",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e86a844791ed71e4521dad"
+  },
+  "street": "Calle 45",
+  "external_number": "525A",
+  "internal_number": "",
+  "zipcode": "97000",
+  "settlement": "Centro",
+  "municipality": "Mérida",
+  "city": "Mérida",
+  "state": "Yucatán",
+  "country": "México",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e938393b7cf591af56d6aa"
+  },
+  "street": "C. 97F #748 entre 66B y 66C 1",
+  "external_number": "748",
+  "internal_number": "1",
+  "zipcode": "97267",
+  "settlement": "Fracc. Manzana 115",
+  "municipality": "Mérida",
+  "city": "Mérida",
+  "state": "Yucatán",
+  "country": "México",
+  "coords": [
+    -18.232,
+    -12.0323
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e99102b6c7a88ae0774d2d"
+  },
+  "street": "Calle 98",
+  "external_number": "580",
+  "internal_number": "",
+  "zipcode": "97225",
+  "settlement": "Paseo de las Fuentes",
+  "municipality": "Mérida",
+  "city": "Mérida",
+  "state": "Yucatán",
+  "country": "México",
+  "coords": [
+    -89.64661149999999,
+    20.9800429
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9cc0c30a01f35e8d6e9cd"
+  },
+  "street": "Calle 95",
+  "external_number": "623",
+  "internal_number": "",
+  "zipcode": "97314",
+  "settlement": "Ciudad Caucel",
+  "municipality": "Mérida",
+  "city": "Mérida",
+  "state": "Yucatán",
+  "country": "México",
+  "coords": [
+    -89.6939835,
+    20.9861799
+  ],
+  "__v": 0
+}]
