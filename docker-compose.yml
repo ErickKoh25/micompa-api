@@ -1,0 +1,14 @@
+version: '1'
+
+services:
+  app:
+    image: micompa-api
+    container_name: micompa-api-docker
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+      - 3001:3001
+    env_file:
+      - /.env
+    command: npm run start
