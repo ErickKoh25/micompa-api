@@ -10,6 +10,6 @@ async function bootstrap() {
     credentials: true,
   });
   const configService = config();
-  await app.listen(configService.port);
+  await app.listen(process.env.PORT);
 }
 bootstrap();
