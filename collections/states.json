@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa67"
+  },
+  "states": "Aguascalientes",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa68"
+  },
+  "states": "Baja California",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa69"
+  },
+  "states": "Baja California Sur",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa6a"
+  },
+  "states": "Campeche",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa6b"
+  },
+  "states": "Chiapas",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa6c"
+  },
+  "states": "Chihuahua",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa6d"
+  },
+  "states": "Coahuila",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa6e"
+  },
+  "states": "Colima",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa6f"
+  },
+  "states": "Ciudad de México",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa70"
+  },
+  "states": "Durango",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa71"
+  },
+  "states": "Guanajuato",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa72"
+  },
+  "states": "Guerrero",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa73"
+  },
+  "states": "Hidalgo",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa74"
+  },
+  "states": "Jalisco",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa75"
+  },
+  "states": "Estado de México",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa76"
+  },
+  "states": "Michoacán",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa77"
+  },
+  "states": "Morelos",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa78"
+  },
+  "states": "Nayarit",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa79"
+  },
+  "states": "Nuevo León",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa7a"
+  },
+  "states": "Oaxaca",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa7b"
+  },
+  "states": "Puebla",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa7c"
+  },
+  "states": "Querétaro",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa7d"
+  },
+  "states": "Quintana Roo",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa7e"
+  },
+  "states": "San Luis Potosí",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa7f"
+  },
+  "states": "Sinaloa",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa80"
+  },
+  "states": "Sonora",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa81"
+  },
+  "states": "Tabasco",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa82"
+  },
+  "states": "Tamaulipas",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa83"
+  },
+  "states": "Tlaxcala",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa84"
+  },
+  "states": "Veracruz",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa85"
+  },
+  "states": "Yucatán",
+  "country": "México"
+},{
+  "_id": {
+    "$oid": "62e712caa3d92e327807aa86"
+  },
+  "states": "Zacatecas",
+  "country": "México"
+}]

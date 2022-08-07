@@ -1,0 +1,40 @@
+version: '3.9'
+
+services:
+  mongodb: 
+    image: mongo
+    container_name: micompa-test
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./collections:/collections
+    
+    
+  app:
+    image: micompa-api
+    container_name: micompa-api-docker
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+      - "3001:3001"
+    env_file:
+      - /.env
+    links: 
+      - mongodb
+    volumes:
+      - .:/home/app
+      - /usr/src/app/node_modules
+
+  # mongo-seed: 
+  #   image: mongo
+  #   build: collections/.
+  #   links:
+  #     - mongo-compa
+  #   depends_on:
+  #     - mongo-compa
+  #   volumes:
+  #     - ./collections:/home/app/collections
+  #   # command:
+  #   #   ./micompa-api/collections/import.sh
